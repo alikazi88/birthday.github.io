@@ -18,7 +18,7 @@ body::before {
   height: 100vh;
   background: url('../img/background.png') no-repeat center center fixed;
   background-size: cover;
-  opacity: 0.2; /* change between 0 (transparent) to 1 (fully visible) */
+  opacity: 0; /* change between 0 (transparent) to 1 (fully visible) */
   z-index: -1;
 }
 
